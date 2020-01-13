@@ -1,1 +1,1 @@
-# Simple-Objective-Exam-and-Result-Calculation-using-C-
+# Simple-Objective-Exam-and-Result-Calculation-using-C++
